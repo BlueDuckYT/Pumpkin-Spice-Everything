@@ -23,7 +23,7 @@ displayName="Pumpkin Spice Everything" #mandatory
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="pumpkin_spice_everything.png" #optional
 # A text field displayed in the mod UI
-credits="Created by Blue Duck, textures by Frenderman and TheU1t1mateGuy" #optional
+credits="Created by Blue Duck, textures by ninnih_, TheU1t1mateGuy, and Frenderman" #optional
 # A text field displayed in the mod UI
 authors="Blue Duck" #optional
 # The description text for the mod (multi line!) (#mandatory)

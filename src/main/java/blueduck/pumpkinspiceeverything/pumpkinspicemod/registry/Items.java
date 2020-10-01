@@ -54,6 +54,7 @@ public class Items {
     public static final RegistryObject<Item> PUMPKIN_SPICE_COOKED_MUTTON = ITEMS.register("pumpkin_spice_cooked_mutton", () -> new Item(new Item.Properties().group(ItemGroup.FOOD).food(new Food.Builder().hunger(8).saturation(0.9F).meat().build())));
     public static final RegistryObject<Item> PUMPKIN_SPICE_RABBIT = ITEMS.register("pumpkin_spice_rabbit", () -> new Item(new Item.Properties().group(ItemGroup.FOOD).food(new Food.Builder().hunger(4).saturation(0.4F).meat().build())));
     public static final RegistryObject<Item> PUMPKIN_SPICE_COOKED_RABBIT = ITEMS.register("pumpkin_spice_cooked_rabbit", () -> new Item(new Item.Properties().group(ItemGroup.FOOD).food(new Food.Builder().hunger(7).saturation(0.8F).meat().build())));
+    public static final RegistryObject<Item> PUMPKIN_SPICE_LATTE = ITEMS.register("pumpkin_spice_latte", () -> new Item(new Item.Properties().group(ItemGroup.FOOD).maxStackSize(16).food(new Food.Builder().hunger(6).saturation(0.5F).build())));
 
     public static final RegistryObject<Block> PUMPKIN_SPICE_CAKE = BLOCKS.register("pumpkin_spice_cake", () -> new CakeBlock(AbstractBlock.Properties.create(Material.CAKE).hardnessAndResistance(0.5F).sound(SoundType.CLOTH)));
     public static final RegistryObject<Item> PUMPKIN_SPICE_CAKE_ITEM = ITEMS.register("pumpkin_spice_cake", () -> new BlockItem(PUMPKIN_SPICE_CAKE.get(), new Item.Properties().group(ItemGroup.FOOD).maxStackSize(1)));

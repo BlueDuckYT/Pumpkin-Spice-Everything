@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "rabbit_stew",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "item": "pumpkin_spice_everything:pumpkin_spice"
+    }
+  ],
+  "result": {
+    "item": "pumpkin_spice_everything:pumpkin_spice_latte"
+  }
+}
