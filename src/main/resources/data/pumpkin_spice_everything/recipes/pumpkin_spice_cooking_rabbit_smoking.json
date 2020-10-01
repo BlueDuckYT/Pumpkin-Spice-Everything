@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "pumpkin_spice_everything:pumpkin_spice_rabbit"
+  },
+  "result": "pumpkin_spice_everything:pumpkin_spice_cooked_rabbit",
+  "experience": 0.1,
+  "cookingtime": 100
+}

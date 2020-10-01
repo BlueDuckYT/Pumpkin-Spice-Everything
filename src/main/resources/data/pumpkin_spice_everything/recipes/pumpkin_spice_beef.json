@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "pumpkin_spice_everything:pumpkin_spice"
+    }
+  ],
+  "result": {
+    "item": "pumpkin_spice_everything:pumpkin_spice_beef"
+  }
+}
