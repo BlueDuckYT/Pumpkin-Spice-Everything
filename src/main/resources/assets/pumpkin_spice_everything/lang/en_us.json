@@ -6,12 +6,22 @@
   "item.pumpkin_spice_everything.pumpkin_spice_poisonous_potato": "Poisonous Pumpkin Spice Potato",
   "item.pumpkin_spice_everything.pumpkin_spice_melon_slice": "Pumpkin Spice Melon Slice",
   "item.pumpkin_spice_everything.pumpkin_spice_beetroot": "Pumpkin Spice Beetroot",
-  "item.pumpkin_spice_everything.pumpkin_spice_beetroot_stew": "Pumpkin Spice Beetroot Stew",
+  "item.pumpkin_spice_everything.pumpkin_spice_beetroot_soup": "Pumpkin Spice Beetroot Soup",
+  "item.pumpkin_spice_everything.pumpkin_spice_rabbit_soup": "Pumpkin Spice Rabbit Soup",
   "item.pumpkin_spice_everything.pumpkin_spice_mushroom_stew": "Pumpkin Spice Mushroom Stew",
   "item.pumpkin_spice_everything.pumpkin_spice_carrot": "Pumpkin Spice Carrot",
   "item.pumpkin_spice_everything.pumpkin_spice_bread": "Pumpkin Spice Bread",
   "item.pumpkin_spice_everything.pumpkin_spice_cookie": "Pumpkin Spice Cookie",
   "item.pumpkin_spice_everything.pumpkin_spice_golden_apple": "Pumpkin Spice Golden Apple",
   "item.pumpkin_spice_everything.pumpkin_spice_spider_eye": "Pumpkin Spice Spider Eye",
-  "item.pumpkin_spice_everything.pumpkin_spice_rotten_flesh": "Pumpkin Spice Rotten Flesh"
+  "item.pumpkin_spice_everything.pumpkin_spice_rotten_flesh": "Pumpkin Spice Rotten Flesh",
+  "item.pumpkin_spice_everything.pumpkin_spice_cod": "Pumpkin Spice Cod",
+  "item.pumpkin_spice_everything.pumpkin_spice_cooked_cod": "Cooked Pumpkin Spice Cod",
+  "item.pumpkin_spice_everything.pumpkin_spice_salmon": "Pumpkin Spice Salmon",
+  "item.pumpkin_spice_everything.pumpkin_spice_cooked_salmon": "Cooked Pumpkin Spice Salmon",
+  "item.pumpkin_spice_everything.pumpkin_spice_tropical_fish": "Pumpkin Spice Tropical Fish",
+  "item.pumpkin_spice_everything.pumpkin_spice_pufferfish": "Pumpkin Spice Pufferfish",
+
+
+  "block.pumpkin_spice_everything.pumpkin_spice_cake": "Pumpkin Spice Cake"
 }

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sugar"
+    },
+    "X": {
+      "item": "minecraft:pumpkin"
+    }
+  },
+  "result": {
+    "item": "pumpkin_spice_everything:pumpkin_spice",
+    "count": 8
+  }
+}

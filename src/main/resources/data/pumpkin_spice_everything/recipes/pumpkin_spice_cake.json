@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BEB",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge/milk"
+    },
+    "B": {
+      "item": "pumpkin_spice_everything:pumpkin_spice"
+    },
+    "C": {
+      "tag": "forge:crops/wheat"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "pumpkin_spice_everything:pumpkin_spice_cake"
+  }
+}

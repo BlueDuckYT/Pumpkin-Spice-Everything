@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "pumpkin_spice_everything:pumpkin_spice_salmon"
+  },
+  "result": "pumpkin_spice_everything:pumpkin_spice_cooked_salmon",
+  "experience": 0.1,
+  "cookingtime": 100
+}

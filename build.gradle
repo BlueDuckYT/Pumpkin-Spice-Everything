@@ -85,6 +85,11 @@ minecraft {
         }
     }
 }
+repositories {
+    maven {
+        url = "https://www.cursemaven.com"
+    }
+}
 
 dependencies {
     // Specify the version of Minecraft to use, If this is any group other then 'net.minecraft' it is assumed
@@ -95,6 +100,7 @@ dependencies {
     // You may put jars on which you depend on in ./libs or you may define them like so..
     // compile "some.group:artifact:version:classifier"
     // compile "some.group:artifact:version"
+    implementation fg.deobf("curse.maven:jei:238222")
 
     // Real examples
     // compile 'com.mod-buildcraft:buildcraft:6.0.8:dev'  // adds buildcraft to the dev env
