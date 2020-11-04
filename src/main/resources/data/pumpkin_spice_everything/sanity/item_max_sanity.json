@@ -1,0 +1,14 @@
+{
+  "entries": [
+    {
+      "item": "pumpkin_spice_everything:pumpkin_spice_pumpkin_pie",
+      "sanity": 5,
+      "chance": 0.25
+    },
+    {
+      "item": "pumpkin_spice_everything:pumpkin_spice_latte",
+      "sanity": 2,
+      "chance": 1
+    }
+  ]
+}
