@@ -7,7 +7,7 @@
   ],
   "key": {
     "A": {
-      "tag": "forge/milk"
+      "tag": "forge:milk"
     },
     "B": {
       "item": "pumpkin_spice_everything:pumpkin_spice"
