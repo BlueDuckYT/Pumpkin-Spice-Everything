@@ -1,0 +1,11 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "paranoia"
+    }
+  ],
+  "tip": {
+    "text": "Pumpkin Spice food will boost your sanity more than regular food!"
+  }
+}
